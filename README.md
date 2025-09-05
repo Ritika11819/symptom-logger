@@ -1,1 +1,1 @@
-# symptom-logger
+# Symptom Logger Hackathon Project 🚀
